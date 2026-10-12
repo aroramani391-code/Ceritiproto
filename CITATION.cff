@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "CertiProto: Certifiably Insertion-Robust and Self-Explaining Malware Detection via Monotone Prototype Graph Learning"
+message: "If you use this code, please cite the paper."
+authors:
+  - family-names: "[Family]"
+    given-names: "[Given]"
+license: MIT

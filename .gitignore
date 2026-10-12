@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+# large intermediates: regenerate with src/prep_*.py and src/train.py
+prep/
+data/
+results/**/*.pkl
+results/**/*.pt
+results/**/*.lgb
+out/
+build/
+*.docx
+*.pdf
